@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
  <p>
-    <img src="http://views.whatilearened.today/views/github/MarcZX100/views.svg"/>
+    <img src="https://komarev.com/ghpvc/?username=MarcZX100&label=PROFILE+VIEWS&style=plastic)"/>
     <a href="https://github.com/MarcZX100/"><img src="https://img.shields.io/github/followers/MarcZX100?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
     <a href="https://github.com/MarcZX100?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
     <a href="https://github.com/MarcZX100/badges"><img src="https://img.shields.io/badge/badges-awesome-green.svg"/></a>
