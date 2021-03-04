@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcZX100&theme=dark&show_icons=true)
+<p>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=MarcZX100&theme=dark&show_icons=true"/>
+ 
 
  <p>
     <img src="https://komarev.com/ghpvc/?username=MarcZX100&label=PROFILE+VIEWS&style=plastic)"/>
@@ -29,5 +31,5 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Os-Debian-a80030"/>
   </p>
 
-
+</p>
 
